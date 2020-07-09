@@ -1,7 +1,7 @@
 Project Initiated 11.10pm - master
 
 
-Changes Done-> Removed All the Line
+Removed
 
 
 More Lines Added  - Master
@@ -9,5 +9,6 @@ More Lines Added  - Master
 
 New Lines Added -11.25pm - HotFix
 
+New Lines in Master - 7.30 Am - Now Definetly Conflicts
 
-Now there will be a merge conflict
+
